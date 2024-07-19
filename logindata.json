@@ -1,0 +1,41 @@
+{
+    "users": [
+      {
+        "id": 66772,
+        "name": "Raja Chowdaboina",
+        "email": "rajachowdaboina3@gmail.com",
+        "password": "Raja@shiva8688",
+        "role": "user",
+        "dept": "Web_dept"
+      },
+      {
+        "id": 2299,
+        "name": "user2",
+        "email": "user2@gmail.com",
+        "password": "123",
+        "role": "user",
+        "dept": "SAP_dept"
+      },
+      {
+        "id": 223344,
+        "role": "admin",
+        "email": "rajachowdaboina9@gmail.com",
+        "password": "12345"
+       
+      },
+      {
+        "id": 113344,
+        "role": "admin",
+        "email": "admin2@gmail.com",
+        "password": "223344"
+       
+      },
+      {
+        "id": 1077,
+        "role": "user",
+        "email": "Chandu.Gavini@desidea.com",
+        "password": "7700"
+      }
+    ]
+  }
+  
